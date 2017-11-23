@@ -1,4 +1,4 @@
-# Demo Project
+# Demo Python Project
 
 ## Introduction
 
